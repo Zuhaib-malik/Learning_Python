@@ -24,4 +24,5 @@ dict = {
     "nam": "zuhaib",
     "age": 20, 
 }
+
 print(dict)
